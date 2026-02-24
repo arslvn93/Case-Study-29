@@ -45,8 +45,8 @@ const config = {
   },
   "header": {
     "tag": "CASE STUDY",
-    "title": "How We Helped an Estate Executor Sell a Fixer-Upper for $139,000 Above Asking in Just 9 Days—In a Market Where Similar Homes Sat Unsold for Months",
-    "subheadline": "Sold 6X Faster Than Market Average With 5 Competing Offers—Despite Water Damage and Zero Renovations"
+    "title": "How We Helped an Estate Executor Sell a Fixer-Upper for $139,000 Above Asking in Just 9 Days, In a Market Where Similar Homes Sat Unsold for Months",
+    "subheadline": "Sold 6X Faster Than Market Average With 5 Competing Offers, Despite Water Damage and Zero Renovations"
   },
   "mainBox": {
     "summary": {
