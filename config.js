@@ -57,7 +57,7 @@ const config = {
       "subTitle": "Summary",
       "paragraphs": [
         "When Sarah became the executor of her late brother's estate, she inherited more than just property, she inherited stress, uncertainty, and mounting carrying costs. The 2-bedroom detached home on Ambleside Ave needed work, the market had slowed to a crawl, and she had no idea where to start with clearing out a lifetime of belongings.",
-        "Through professional service and market expertise, we delivered exceptional results for our client. <strong>SOLD FOR $1,038,000—$139,000 ABOVE ASKING PRICE</strong> <strong>SOLD IN 9 DAYS vs. 49-DAY MARKET AVERAGE (6X FASTER)</strong> <strong>SECURED 5 COMPETING OFFERS: 4 OF THEM FIRM WITH ZERO CONDITIONS</strong> Generated 22 private showings plus 32 groups through open houses in just over one week Negotiated multiple firm offers with no inspection conditions, no financing conditions, and a quick close under 60 days Delivered financial closure and eliminated ongoing carrying costs that had been draining the estate for months"
+        "Through professional service and market expertise, we delivered exceptional results for our client. <strong>SOLD FOR $1,038,000—$139,000 ABOVE ASKING PRICE</strong> <strong>SOLD IN 9 DAYS vs. 49-DAY MARKET AVERAGE (6X FASTER)</strong> <strong>SECURED 5 COMPETING OFFERS: 4 OF THEM FIRM WITH ZERO CONDITIONS</strong>. Generated 22 private showings plus 32 groups through open houses in just over one week. Negotiated multiple firm offers with no inspection conditions, no financing conditions, and a quick close under 60 days. Delivered financial closure and eliminated ongoing carrying costs that had been draining the estate for months."
       ]
     },
     "sidebar": {
