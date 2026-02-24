@@ -1,16 +1,5 @@
-// =================================================================================================
-// PAGE CONFIGURATION OBJECT
-// This file defines all the dynamic content for the case study page.
-// The `renderer.js` file reads this object to build the HTML.
-// To change text, images, or other content, edit the values in this file.
-// =_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_
 const config = {
   "globals": {
-    "companyName": "Sky Group",
-    "mainCTAButtonText": "Book A Discovery Call",
-    "mainCTAButtonURL": "#contact",
-    "primaryColor": "#e3c379",
-    "accentColor": "#d9c6a2",
     "agents": [
       {
         "name": "Stephen Fabbro",
@@ -26,7 +15,13 @@ const config = {
           }
         ]
       }
-    ]
+    ],
+    "companyName": "Sky Group",
+    "mainCTAButtonText": "Book A Discovery Call",
+    "mainCTAButtonURL": "https://calendly.com/theskygroup/discovery-call",
+    "primaryColor": "#e3c379",
+    "accentColor": "#d9c6a2",
+    "facebookPixelId": ""
   },
   "header": {
     "tag": "CASE STUDY",
@@ -64,7 +59,8 @@ const config = {
         "Facing a brutally slow market where homes—especially fixer-uppers requiring significant work—were sitting unsold for months with no offers",
         "Terrified of selling far below the appraised value from just two years prior, or worse, not selling at all and continuing to bleed money on carrying costs",
         "Drowning in the emotional and logistical burden of clearing out an entire home filled with her brother's belongings while grieving his loss"
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "standard",
@@ -78,7 +74,8 @@ const config = {
       ],
       "testimonial": {
         "quote": "\"\"I couldn't believe we received 5 offers—4 of them firm—and sold above a million dollars. After everything I'd been through with my brother's passing and the stress of dealing with the estate, Stephen and the Sky Group gave me something I desperately needed: relief. They handled absolutely everything. I didn't have to worry about clearing the home, staging, marketing, or even being there for showings. They took this burden completely off my shoulders and delivered results I never thought were possible in this market. This sale finally gave me closure on an incredibly difficult chapter.\"\"<br><span>— Satisfied Client</span>"
-      }
+      },
+      "listItems": []
     },
     {
       "type": "standard",
@@ -88,7 +85,8 @@ const config = {
       ],
       "image": {
         "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1771808175179-10-web-or-mls-DSC00023.jpg"
-      }
+      },
+      "listItems": []
     },
     {
       "type": "standard",
@@ -100,7 +98,8 @@ const config = {
         "Generated 22 private showings plus 32 groups through open houses in just over one week",
         "Negotiated multiple firm offers with no inspection conditions, no financing conditions, and a quick close under 60 days",
         "Delivered financial closure and eliminated ongoing carrying costs that had been draining the estate for months"
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "standard",
@@ -109,7 +108,8 @@ const config = {
         "<strong>Strategy trumps perfection every time.</strong> You don't need to sink thousands into renovations or repairs—but you absolutely need the right pricing strategy and marketing approach to generate competitive offers, even for fixer-uppers.",
         "<strong>In a slow market, aggressive pricing creates its own momentum.</strong> Strategic underpricing doesn't mean leaving money on the table—it means bringing multiple buyers to the table so they compete and drive the price up for you.",
         "<strong>The right agent removes obstacles, not just lists properties.</strong> From estate clearouts to white glove service, working with a team that handles the entire process transforms an overwhelming situation into a seamless experience with better results."
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "ctaBanner",
@@ -121,24 +121,24 @@ const config = {
     }
   ],
   "footer": {
+    "privacyPolicy": {
+      "text": "Privacy Policy",
+      "href": "https://www.mls.theskygroup.ca/privacy-policy"
+    },
     "logo": {
       "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1761147528200-Headshot - Stephen Fabbro (1).png"
+    },
+    "secondaryLogo": {
+      "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-Property_logo_W.png"
     },
     "brokerageLabel": "Brokerage:",
     "brokerageName": "Property.ca Inc",
     "brokerageAddress": "36 Distillery Lane unit 500, Toronto, ON M5A 3C4",
-    "secondaryLogo": {
-      "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-Property_logo_W.png"
-    },
-    "disclaimerText": "All testimonials on this page are from real clients. Their experiences do not guarantee similar results.<br>Individual results may vary based on location, market conditions, motivation, as well as other unforeseen factors. Your results may vary.",
-    "privacyPolicy": {
-      "text": "Privacy Policy",
-      "href": "https://www.mls.theskygroup.ca/privacy-policy"
-    }
-  }
+    "disclaimerText": "All testimonials on this page are from real clients. Their experiences do not guarantee similar results.<br>Individual results may vary based on location, market conditions, motivation, as well as other unforeseen factors. Your results may vary."
+  },
+  "githubRepo": "https://github.com/arslvn93/Case-Study-29"
 };
 
-// Export for Node.js environment (if applicable) or set for browser
 if (typeof module !== 'undefined' && module.exports) {
   module.exports = config;
 } else if (typeof window !== 'undefined') {
