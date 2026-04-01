@@ -45,8 +45,8 @@ const config = {
   },
   "header": {
     "tag": "CASE STUDY",
-    "title": "How We Helped an Estate Executor Sell a Fixer-Upper for $139,000 Above Asking in Just 9 Days, In a Market Where Similar Homes Sat Unsold for Months",
-    "subheadline": "Sold 6X Faster Than Market Average With 5 Competing Offers, Despite Water Damage and Zero Renovations"
+    "title": "How We Helped an Estate Executor Sell a Fixer-Upper for $139,000 Above Asking, Handling Everything From Clearout to Close So She Didn't Have to Lift a Finger",
+    "subheadline": "5 Competing Offers, $139,000 Above Asking, With Full White Glove Service — Despite Water Damage and Zero Renovations"
   },
   "mainBox": {
     "summary": {
@@ -56,8 +56,8 @@ const config = {
       },
       "subTitle": "Summary",
       "paragraphs": [
-        "When Sarah became the executor of her late brother's estate, she inherited more than just property, she inherited stress, uncertainty, and mounting carrying costs. The 2-bedroom detached home on Ambleside Ave needed work, the market had slowed to a crawl, and she had no idea where to start with clearing out a lifetime of belongings.",
-        "Through professional service and market expertise, we delivered exceptional results for our client. <strong>SOLD FOR $1,038,000—$139,000 ABOVE ASKING PRICE</strong> <strong>SOLD IN 9 DAYS vs. 49-DAY MARKET AVERAGE (6X FASTER)</strong> <strong>SECURED 5 COMPETING OFFERS: 4 OF THEM FIRM WITH ZERO CONDITIONS</strong>. Generated 22 private showings plus 32 groups through open houses in just over one week. Negotiated multiple firm offers with no inspection conditions, no financing conditions, and a quick close under 60 days. Delivered financial closure and eliminated ongoing carrying costs that had been draining the estate for months."
+        "When Sarah became the executor of her late brother's estate, she inherited more than just property, she inherited stress, uncertainty, and mounting carrying costs. The 2-bedroom detached home on Ambleside Ave needed work, the market had slowed to a crawl, and she had no idea where to start - and the last thing she needed was to manage a complex sale process on top of her grief. That's where we came in, handling absolutely everything from clearout to close.",
+        "Through professional service and market expertise, we delivered exceptional results for our client. <strong>SOLD FOR $1,038,000—$139,000 ABOVE ASKING PRICE</strong> <strong>SOLD ON OFFER DATE AFTER STRATEGIC PRICE REPOSITIONING</strong> <strong>SECURED 5 COMPETING OFFERS: 4 OF THEM FIRM WITH ZERO CONDITIONS</strong>. Generated 22 private showings plus 32 groups through open houses in just over one week. Negotiated multiple firm offers with no inspection conditions, no financing conditions, and a quick close under 60 days. Delivered financial closure and eliminated ongoing carrying costs that had been draining the estate for months."
       ]
     },
     "sidebar": {
@@ -76,7 +76,7 @@ const config = {
       "title": "The Challenge",
       "paragraphs": [
         "Completely overwhelmed by the estate sale process with zero experience navigating real estate transactions or preparing a home for market",
-        "Facing a brutally slow market where home, especially fixer-uppers requiring significant work, were sitting unsold for months with no offers",
+        "Already months into the listing process at a higher price point — getting consistent showings but unable to get a single buyer to submit an offer - with carrying costs continuing to mount",
         "Terrified of selling far below the appraised value from just two years prior, or worse, not selling at all and continuing to bleed money on carrying costs",
         "Drowning in the emotional and logistical burden of clearing out an entire home filled with her brother's belongings while grieving his loss"
       ],
@@ -87,7 +87,7 @@ const config = {
       "title": "The Strategy",
       "paragraphs": [
         "Executed a complete estate clearout, filling two XL bins and decluttering every room to transform the space from overwhelming to inviting, all without the seller lifting a finger",
-        "Deployed an aggressive pricing strategy at $899,000 based on deep comparative market analysis, positioning the home as an irresistible opportunity to enter a desirable Toronto neighbourhood",
+        "Identified the right moment to pivot the strategy - after spotting a comparable home a few blocks away successfully sell on offer date using a low-price, offer-hold approach, we repositioned the listing at $899,000 to replicate that momentum and bring multiple buyers to the table at once",
         "Created a premium media package with high-quality photography, virtual tours, and 3D walkthrough technology that showcased the home's potential despite its condition",
         "Orchestrated strategic open houses that drew 32 additional groups beyond private showings, creating buzz and competitive energy in a dead market",
         "Implemented an offer-holding strategy that manufactured urgency and scarcity, forcing buyers to compete rather than negotiate even with visible water damage and no pre-listing inspection"
@@ -110,7 +110,7 @@ const config = {
       "title": "The Results",
       "paragraphs": [
         "<strong>SOLD FOR $1,038,000, $139,000 ABOVE ASKING PRICE</strong>",
-        "<strong>SOLD IN 9 DAYS vs. 49-DAY MARKET AVERAGE (6X FASTER)</strong>",
+        "<strong>SOLD ON OFFER DATE FOLLOWING STRATEGIC PRICE REPOSITIONING</strong>",
         "<strong>SECURED 5 COMPETING OFFERS:4 OF THEM FIRM WITH ZERO CONDITIONS</strong>",
         "Generated 22 private showings plus 32 groups through open houses in just over one week",
         "Negotiated multiple firm offers with no inspection conditions, no financing conditions, and a quick close under 60 days",
@@ -123,7 +123,7 @@ const config = {
       "title": "Conclusion",
       "paragraphs": [
         "<strong>Strategy trumps perfection every time.</strong> You don't need to sink thousands into renovations or repairs, but you absolutely need the right pricing strategy and marketing approach to generate competitive offers, even for fixer-uppers.",
-        "<strong>In a slow market, aggressive pricing creates its own momentum.</strong> Strategic underpricing doesn't mean leaving money on the table,it means bringing multiple buyers to the table so they compete and drive the price up for you.",
+        "Knowing when and how to pivot your strategy is what separates a stale listing from a sold one. After months of consistent showings at a higher price with no offers, we identified the right moment to reposition — drawing on a successful comparable sale nearby to time the switch perfectly. The result was multiple competing buyers and a final price $139,000 above the new asking price.",
         "<strong>The right agent removes obstacles, not just lists properties.</strong> From estate clearouts to white glove service, working with a team that handles the entire process transforms an overwhelming situation into a seamless experience with better results."
       ],
       "listItems": []
